@@ -109,7 +109,7 @@
 	margin-right: 16px;
 	display: inline-block;
 }
-.second-section-div{
+.third-section-div{
     border: .1px solid black;
     border-top: none;
     border-width: 2px;
@@ -123,11 +123,11 @@
 	font-size: 14px;
 	color: #5863F8;
 	margin: 23px 0 6px 0;
-	font-family:'Roboto', sans-serif;
+	font-family: 'Rubik Distressed';
 }
 .bottom-block2{
 	font-size: 18px;
-	font-family:'Roboto', sans-serif;
+	font-family: 'Rubik Distressed';
 	margin-bottom: 11px;
 
 }
@@ -157,4 +157,11 @@
 	margin-top: 69px;
 	display: inline-block;
 	
+}
+/*third-section*/
+.divtoo{
+	margin-right: 16px;
+}
+.divthree{
+	margin-left: 16px;
 }
